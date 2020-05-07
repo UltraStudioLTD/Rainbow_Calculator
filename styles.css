@@ -1,0 +1,164 @@
+/*
+====================================
+    Designed By GhostStudio™
+    OpenSource Styles:
+    Rainbow;
+    Other Styles Are ClosedSource!
+====================================
+*/
+
+body{
+    background-color: gray;
+}
+.container{
+    margin: auto;
+    width: 17%;
+    padding: 10px;
+    border: 1px solid #f2f2f2;
+    -webkit-box-shadow: 1px 1px 4px 0px rgba(176,176,176,1);
+    -moz-box-shadow: 1px 1px 4px 0px rgba(176,176,176,1);
+    box-shadow: inset 0 0 50px #fff, inset 20px 0 80px #f0f, inset -20px 0 80px #0ff, inset 20px 0 300px #f0f, inset -20px 0 300px #0ff, 0 0 50px #fff, -10px 0 80px #f0f, 10px 0 80px #0ff;
+    background-color: #F8F8F8;
+}
+
+table{
+    width: 100%;
+}
+td{
+    width: 25%;
+}
+.result{
+    -webkit-animation: rainbow-t 2.5s ease infinite;
+    -z-animation: rainbow-t 2.5s ease infinite;
+    -o-animation: rainbow-t 2.5s ease infinite;
+    animation: rainbow-t 2.5s ease infinite alternate;
+    width: 240px;
+    text-align: right;
+    height: 27px;
+    font-size: 29px;
+    padding-bottom: 5px;
+    font-weight: 700;
+    padding-right: 3px;
+    border: none;
+    background-color: black;
+}
+.global{
+    padding: 15px;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    border-radius: 3px;
+    background-color: #F2F2F2;
+    width: 100%;
+}
+.first-row{
+   padding: 7px;
+}
+input[type=button]{
+    background-color: black;
+    -webkit-animation: rainbow-t 2.5s ease infinite;
+    -z-animation: rainbow-t 2.5s ease infinite;
+    -o-animation: rainbow-t 2.5s ease infinite;
+    animation: rainbow-t 2.5s ease infinite alternate;
+}
+@keyframes rainbow-bg{
+    100%,0%{
+        background-color: rgb(255,0,0);
+    }
+    8%{
+        background-color: rgb(255,127,0);
+    }
+    16%{
+        background-color: rgb(255,255,0);
+    }
+    25%{
+        background-color: rgb(127,255,0);
+    }
+    33%{
+        background-color: rgb(0,255,0);
+    }
+    41%{
+        background-color: rgb(0,255,127);
+    }
+    50%{
+        background-color: rgb(0,255,255);
+    }
+    58%{
+        background-color: rgb(0,127,255);
+    }
+    66%{
+        background-color: rgb(0,0,255);
+    }
+    75%{
+        background-color: rgb(127,0,255);
+    }
+    83%{
+        background-color: rgb(255,0,255);
+    }
+    91%{
+        background-color: rgb(255,0,127);
+    }
+}
+@keyframes rainbow-t{
+    100%,0%{
+        color: rgb(255,0,0);
+    }
+    8%{
+        color: rgb(255,127,0);
+    }
+    16%{
+        color: rgb(255,255,0);
+    }
+    25%{
+        color: rgb(127,255,0);
+    }
+    33%{
+        color: rgb(0,255,0);
+    }
+    41%{
+        color: rgb(0,255,127);
+    }
+    50%{
+        color: rgb(0,255,255);
+    }
+    58%{
+        color: rgb(0,127,255);
+    }
+    66%{
+        color: rgb(0,0,255);
+    }
+    75%{
+        color: rgb(127,0,255);
+    }
+    83%{
+        color: rgb(255,0,255);
+    }
+    91%{
+        color: rgb(255,0,127);
+    }
+}
+@-webkit-keyframes rainbow {
+    0%{background-position:0% 100%}
+    100%{background-position:100% 0%}
+}
+@-moz-keyframes rainbow {
+    0%{background-position:0% 100%}
+    100%{background-position:100% 0%}
+}
+@-o-keyframes rainbow {
+    0%{background-position:0% 100%}
+    100%{background-position:100% 0%}
+}
+@keyframes rainbow { 
+    0%{background-position:0% 100%}
+    100%{background-position:100% 0%}
+}
+#end-credits{
+    background: -webkit-linear-gradient(to left, orange , yellow, green, cyan, blue, violet);
+    background: -o-linear-gradient(to right, orange, yellow, green, cyan, blue, violet);
+    background: -moz-linear-gradient(to right, orange, yellow, green, cyan, blue, violet);
+    background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
