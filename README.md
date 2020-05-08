@@ -1,5 +1,5 @@
 # Rainbow Calculator
-[![License](https://img.shields.io/github/license/UltraStudioLTD/Rainbow_Calculator)](LICENSE)
+[![License](https://img.shields.io/github/License/UltraStudioLTD/Rainbow_Calculator)](LICENSE)
 [![Design](https://img.shields.io/badge/Design-GhostStudio%E2%84%A2-red)](DESIGN)
 [![Code](https://img.shields.io/badge/Code-UltraCoder%E2%84%A2-blue)](CODE)
 [![Author](https://img.shields.io/badge/Author-Luka%20Mamukashvili-yellow)](AUTHOR)
