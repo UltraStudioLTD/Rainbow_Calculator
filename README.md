@@ -8,5 +8,10 @@
 [![Language](https://img.shields.io/badge/Language-HTML-red)](LANGUAGE)
 [![Language](https://img.shields.io/badge/Language-CSS-cyan)](LANGUAGE)
 [![Language](https://img.shields.io/badge/Language-JS-yellow)](LANGUAGE)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FUltraStudioLTD%2FRainbow_Calculator.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FUltraStudioLTD%2FRainbow_Calculator?ref=badge_shield)
 
 Web-based Calculator With GUI (Graphical User Interface) and Rainbow Colors.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FUltraStudioLTD%2FRainbow_Calculator.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FUltraStudioLTD%2FRainbow_Calculator?ref=badge_large)
